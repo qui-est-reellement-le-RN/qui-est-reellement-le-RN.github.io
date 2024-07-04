@@ -165,3 +165,7 @@ small{
     color: #d0d0d0;
     text-decoration: underline;
 }
+
+.not-impl{
+    height: 900px;
+}
