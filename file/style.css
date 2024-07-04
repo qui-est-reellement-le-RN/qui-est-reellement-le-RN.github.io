@@ -85,7 +85,6 @@ nav > ul li:hover .sous{
 
 .conteneur{
   margin: 50px 20px;
-  height: 950px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   width: 60%;
   align-self: center;
@@ -111,7 +110,7 @@ footer {
     font-family: Avenir, sans-serif;
 }
 
-a{
+footer a{
     text-decoration: none;
     color: #d0d0d0;
 }
@@ -132,4 +131,37 @@ a{
 
 .italic{
     font-style: italic;
+}
+
+.paragraphe{
+    text-indent: 20px;
+}
+
+.source{
+    text-indent: 20px;
+    font-size: 15px;
+}
+
+small{
+    font-size: 17px;
+}
+
+
+.externlink{
+    text-decoration: none;
+    font-weight: bold;
+    color: #3b3b3b;
+}
+
+.source li{
+    text-decoration: none;
+}
+
+.source-list{
+    list-style: none;
+}
+
+.smaller a{
+    color: #d0d0d0;
+    text-decoration: underline;
 }
